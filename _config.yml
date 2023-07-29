@@ -55,19 +55,6 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am a passionate master's graduate in Biomedical Imaging with strong technical and interpersonal skills. I have experience in health technology, machine learning, computer vision, image & signal processing, and am seeking to make a positive impact on people's lives through research and innovation.
   
-  I recently completed my MSc in Biomedical Imaging at the University of Turku in Finland, where my thesis focused on developing algorithms to extract accurate heart rate measurements from video recordings in noisy environments. This project involved processing physiological signals and using techniques like Fourier Analysis and Independant Component Analysis to handle noise and motion artifacts.
-  
-  I have research experience interning at the Cell Migration Lab at Åbo Akademi University, where I worked on extending and developing deep learning-backed segmentation network for the [ZeroCostDL4Mic project](https://github.com/HenriquesLab/ZeroCostDL4Mic).
-  
-  Previously, I obtained my BSc in Physics from Azad University in Iran. My undergraduate thesis evaluated methods to reduce urban noise pollution using pavement materials and vegetation. This early research experience sparked my interest in tackling real-world problems through science.
-  
-  In addition to research, I have professional experience as a Quality Controller at an automotive manufacturer and as a Computer Operator at a medical imaging center. These roles allowed me to develop my technical abilities and attention to detail.
-
-  On a personal level, I am like a Swiss Army knife of reliability and collaboration. I am well-organized, detail-oriented, and always eager to tackle new challenges. I have a strong sense of initiative, which I believe is essential for problem-solving and skill development. Although I value teamwork, I am also comfortable working independently. My goal is not only to achieve personal success but also to help the team achieve success and make a significant impact. I thrive in challenging environments and enjoy taking on new and complex tasks.
-  
-  I’m currently embarking on an exciting Ph.D. focusing on multi-source behavioral data analysis using wearable sensors and machine learning. I’m eager to develop new techniques that can extract deeper insights from movement data.
-  
-  Outside the lab, I enjoy puzzles, data mining, reading, cooking, and the outdoors. I'm always seeking to expand my skills and knowledge. Please explore my site to learn more about my background, projects, and research interests. I'm open to collaborations, so feel free to connect!
 
 
 
@@ -118,9 +105,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Outside the lab, I enjoy puzzles, data mining, reading, cooking, and the outdoors. I'm always seeking to expand my skills and knowledge. Please explore my site to learn more about my background, projects, and research interests. I'm open to collaborations, so feel free to connect!
 
 # Footer
 footer_show_references: true
