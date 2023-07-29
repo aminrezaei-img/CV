@@ -106,7 +106,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
 
-      Outside the lab, I enjoy puzzles, data mining, reading, cooking, and the outdoors. I'm always seeking to expand my skills and knowledge. Please explore my site to learn more about my background, projects, and research interests. I'm open to collaborations, so feel free to connect!
+      Outside the lab, I enjoy puzzles 🧩, data mining 🖥️, finance 💹, reading 📚, cooking 👨‍🍳, and the outdoors 🌲🌅🏖️🚴✈️. I’m always seeking to expand my skills and knowledge 📈. Please explore 🔎 my site to learn more about my background, projects, and research interests 🔬. I’m open to collaborations 🤝, so feel free to connect! 😀
 
 # Footer
 footer_show_references: true
