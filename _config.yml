@@ -6,32 +6,30 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Amin Rezaei
+title: Master's Graduate in Biomedical Imaging | Prospective Ph.D. Researcher in Multi-Source Behavioral Data Analysis
+email: Amin.Rezaei@hotmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://www.aminrezaei.ai/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+twitter_username: AMINREZAEl
+github_username:  aminrezaei-img
+stackoverflow_username: "18346001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: Amin-Rezaeii
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# orcid_username: 0000-0000-0000-0000
+# googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
@@ -50,15 +48,31 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/Profile picture.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  
+  I am a passionate master's graduate in Biomedical Imaging with strong technical and interpersonal skills. I have experience in health technology, machine learning, computer vision, image & signal processing, and am seeking to make a positive impact on people's lives through research and innovation.
+  
+  Currently, I am a prospective Ph.D. candidate, eagerly anticipating the start of an industrial Ph.D. fellowship in October 2023 at SENS Innovation ApS and the Faculty of Health Sciences, University of Southern Denmark. This prestigious fellowship is a part of the Marie Skłodowska-Curie Doctoral Network, specifically within the EU-funded LABDA ('Learning Network for Advanced Behavioural Data Analysis') project. 
+  
+  My upcoming research will generally focus on the analysis of multi-source advanced behavioral data where I will have specific responsibilities to:
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+    %- Systematically assess the benefits and drawbacks of existing multi-source movement behavior data methods where accelerometer data are combined with other data to improve classification accuracy and/or add contextual information.
+    %- Further develop an existing smartphone application to be able to combine accelerometer data with contextual data collected using GPS and/or EMA functionality.
+    %- Assess if the behavioral classification accuracy can be improved using data from the additional sources and if yes, implement the improved classification algorithm.
+    %- Conduct a feasibility test with the improved multi-source movement behavior data collection method.
+    %- Report on findings by publishing scientific articles, resulting in a dissertation.
+    %- Present findings at (inter)national meetings/conferences.
+    %- Contribute to the LABDA toolbox of advanced analysis methods for sensor-based behavioral data.
+    %- Contribute to educational activities within the consortium.
+
+Through these research endeavors, I aspire to make meaningful contributions to the field of multi-source behavioral data analysis, paving the way for innovative applications and advancements that can improve people's lives and lead to meaningful changes in how we approach behavioral analysis. 
+
+As a research-driven and target-oriented individual, I am committed to bridging the gap between science and industry. My ultimate goal is to make a positive impact across various domains and advance our understanding of human behavior.
+
+Through collaboration and knowledge sharing within the LABDA consortium, I am excited to be part of a transformative journey that pushes the boundaries of data analysis and contributes to the progress of human-centric research.
+
+Stay tuned for updates on my exciting journey as I embark on this research endeavor!
 
 content:
   - title: Projects # Title for the section
@@ -107,16 +121,15 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Outside the lab, I enjoy puzzles 🧩, data mining 🖥️, finance 💹, reading 📚, cooking 👨‍🍳, and the outdoors 🌲🌅🏖️🚴✈️. I’m always seeking to expand my skills and knowledge 📈. Please explore 🔎 my site to learn more about my background, projects, and research interests 🔬. I’m open to collaborations 🤝, so feel free to connect! 😀
 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# theme: modern-resume-theme (Use this if you are hosting your resume yourself)
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
