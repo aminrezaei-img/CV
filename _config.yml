@@ -98,9 +98,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      Outside the lab, I enjoy puzzles 🧩, data mining 🖥️, finance 💹, reading 📚, cooking 👨‍🍳, and the outdoors 🌲🌅🏖️🚴✈️. I’m always seeking to expand my skills and knowledge 📈. Please explore 🔎 my site to learn more about my background, projects, and research interests 🔬. I’m open to collaborations 🤝, so feel free to connect! 😀
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
