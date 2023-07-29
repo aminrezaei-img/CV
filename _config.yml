@@ -26,9 +26,9 @@ linkedin_username: Amin-Rezaeii
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Profile picture.png
 about_content: | # this will include new lines to allow paragraphs
-  I am a passionate master's graduate in Biomedical Imaging with strong technical and interpersonal skills. I have experience in health technology, machine learning, computer vision, image & signal processing, and am seeking to make a positive impact on people's lives through research and innovation.
+  I am a passionate master's graduate in Biomedical Imaging with strong technical and interpersonal skills. I have experience in health technology, machine learning, computer vision, and image & signal processing. I seek to make a positive impact on people's lives through research and innovation.
   
-  Currently, I am a prospective Ph.D. candidate, eagerly anticipating the start of an industrial Ph.D. fellowship in the [LABDA ('Learning Network for Advanced Behavioural Data Analysis')] (https://labda-project.eu/index.html) project starting October 2023. 
+  Currently, I am a prospective Ph.D. candidate, eagerly anticipating the start of an industrial Ph.D. fellowship in the [<mark>LABDA</mark> ('Learning Network for Advanced Behavioural Data Analysis')](https://labda-project.eu/index.html) project starting October 2023. 
   
   This prestigious fellowship is a part of the MSCA (Marie Skłodowska-Curie Actions) Doctoral Network, under Horizon Europe (2021-2027).
 
