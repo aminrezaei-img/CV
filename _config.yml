@@ -28,18 +28,20 @@ about_profile_image: images/Profile picture.png
 about_content: | # this will include new lines to allow paragraphs
   I am a passionate master's graduate in Biomedical Imaging with strong technical and interpersonal skills. I have experience in health technology, machine learning, computer vision, image & signal processing, and am seeking to make a positive impact on people's lives through research and innovation.
   
-  Currently, I am a prospective Ph.D. candidate, eagerly anticipating the start of an industrial Ph.D. fellowship in October 2023 at SENS Innovation ApS and the Faculty of Health Sciences, University of Southern Denmark. This prestigious fellowship is a part of the Marie Skłodowska-Curie Doctoral Network, specifically within the EU-funded LABDA ('Learning Network for Advanced Behavioural Data Analysis') project. 
+  Currently, I am a prospective Ph.D. candidate, eagerly anticipating the start of an industrial Ph.D. fellowship in the [LABDA ('Learning Network for Advanced Behavioural Data Analysis')] (https://labda-project.eu/index.html) project starting October 2023. 
   
+  This prestigious fellowship is a part of the MSCA (Marie Skłodowska-Curie Actions) Doctoral Network, under Horizon Europe (2021-2027).
+
   My upcoming research will generally focus on the analysis of multi-source advanced behavioral data where I will have specific responsibilities to:
   
-    - Systematically assess the benefits and drawbacks of existing multi-source movement behavior data methods where accelerometer data are combined with other data to improve classification accuracy and/or add contextual information.
-    - Further develop an existing smartphone application to be able to combine accelerometer data with contextual data collected using GPS and/or EMA functionality.
-    - Assess if the behavioral classification accuracy can be improved using data from the additional sources and if yes, implement the improved classification algorithm.
-    - Conduct a feasibility test with the improved multi-source movement behavior data collection method.
-    - Report on findings by publishing scientific articles, resulting in a dissertation.
     - Present findings at (inter)national meetings/conferences.
-    - Contribute to the LABDA toolbox of advanced analysis methods for sensor-based behavioral data.
     - Contribute to educational activities within the consortium.
+    - Report on findings by publishing scientific articles, resulting in a dissertation.
+    - Contribute to the LABDA toolbox of advanced analysis methods for sensor-based behavioral data.    
+    - Conduct a feasibility test with the improved multi-source movement behavior data collection method.
+    - Further develop an existing smartphone application to be able to combine accelerometer data with contextual data collected using GPS and/or EMA functionality.
+    - Assess the possibility of enhancing behavioral classification accuracy using data from additional sources and implement the improved classification algorithm.
+    - Systematically assess the benefits and drawbacks of existing multi-source movement behavior data methods where accelerometer data are combined with other data to improve classification accuracy and/or add contextual information.
 
   Through these research endeavors, I aspire to make meaningful contributions to the field of multi-source behavioral data analysis, paving the way for innovative applications and advancements that can improve people's lives and lead to meaningful changes in how we approach behavioral analysis. 
 
