@@ -25,15 +25,15 @@ linkedin_username: Amin-Rezaeii
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Profile picture.png
-about_content: | # this will include new lines to allow paragraphs
 
+about_content: 
   I am a passionate master's graduate in Biomedical Imaging with strong technical and interpersonal skills. I have experience in health technology, machine learning, computer vision, image & signal processing, and am seeking to make a positive impact on people's lives through research and innovation.
   
   Currently, I am a prospective Ph.D. candidate, eagerly anticipating the start of an industrial Ph.D. fellowship in October 2023 at SENS Innovation ApS and the Faculty of Health Sciences, University of Southern Denmark. This prestigious fellowship is a part of the Marie Skłodowska-Curie Doctoral Network, specifically within the EU-funded LABDA ('Learning Network for Advanced Behavioural Data Analysis') project. 
   
   My upcoming research will generally focus on the analysis of multi-source advanced behavioral data where I will have specific responsibilities to:
   
-    - <font size=”1”> Systematically assess the benefits and drawbacks of existing multi-source movement behavior data methods where accelerometer data are combined with other data to improve classification accuracy and/or add contextual information.</font>
+    - Systematically assess the benefits and drawbacks of existing multi-source movement behavior data methods where accelerometer data are combined with other data to improve classification accuracy and/or add contextual information.
     - Further develop an existing smartphone application to be able to combine accelerometer data with contextual data collected using GPS and/or EMA functionality.
     - Assess if the behavioral classification accuracy can be improved using data from the additional sources and if yes, implement the improved classification algorithm.
     - Conduct a feasibility test with the improved multi-source movement behavior data collection method.
