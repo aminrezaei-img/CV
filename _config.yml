@@ -52,28 +52,24 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Profile picture.png
 about_content: | # this will include new lines to allow paragraphs
-
-  I am a passionate master's graduate in Biomedical Imaging with strong technical and interpersonal skills. I have experience in health technology, machine learning, computer vision, image & signal processing, and am seeking to make a positive impact on people's lives.
   
-  I recently completed my MSc in Biomedical Imaging at the University of Turku in Finland, where my thesis focused on camera-based heart rate extraction in noisy environments. I developed a modular pipeline to extract accurate heart rate signals from video recordings in challenging conditions.
+  I am a passionate master's graduate in Biomedical Imaging with strong technical and interpersonal skills. I have experience in health technology, machine learning, computer vision, image & signal processing, and am seeking to make a positive impact on people's lives through research and innovation.
   
-  Previously, I obtained my BSc in Physics from Azad University in Iran. My undergraduate project evaluated the impact of pavement and vegetation on urban noise reduction.
+  I recently completed my MSc in Biomedical Imaging at the University of Turku in Finland, where my thesis focused on developing algorithms to extract accurate heart rate measurements from video recordings in noisy environments. This project involved processing physiological signals and using techniques like Fourier Analysis and Independant Component Analysis to handle noise and motion artifacts.
   
-  I have research experience interning at the Cell Migration Lab at Åbo Akademi University, where I worked on developing deep learning-backed segmentation networks. I have also interned at an optics lab where I gained hands-on experience with optical equipment and quality control.
+  I have research experience interning at the Cell Migration Lab at Åbo Akademi University, where I worked on extending and developing deep learning-backed segmentation network for the [ZeroCostDL4Mic project](https://github.com/HenriquesLab/ZeroCostDL4Mic).
+  
+  Previously, I obtained my BSc in Physics from Azad University in Iran. My undergraduate thesis evaluated methods to reduce urban noise pollution using pavement materials and vegetation. This early research experience sparked my interest in tackling real-world problems through science.
   
   In addition to research, I have professional experience as a Quality Controller at an automotive manufacturer and as a Computer Operator at a medical imaging center. These roles allowed me to develop my technical abilities and attention to detail.
-  
-  Outside of work, I enjoy puzzles, data mining, outdoor activities, reading, cooking and coding. I consider myself hard-working, curious, self-initiated, trustworthy and results-driven. I am looking to utilize my diverse background to advance innovation in health technology and computer vision.
-  
-  Let me know if you would like me to modify or expand this "About Me" section further based on Amin's resume and experience!
 
-  %Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  On a personal level, I am like a Swiss Army knife of reliability and collaboration. I am well-organized, detail-oriented, and always eager to tackle new challenges. I have a strong sense of initiative, which I believe is essential for problem-solving and skill development. Although I value teamwork, I am also comfortable working independently. My goal is not only to achieve personal success but also to help the team achieve success and make a significant impact. I thrive in challenging environments and enjoy taking on new and complex tasks.
   
-  %You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    %- Lists
-    %- Tables
-    %- <a href="google.com">Links</a>
-    %- Images ![alt text](/images/landscape-trees.jpg "Trees")
+  I’m currently embarking on an exciting Ph.D. focusing on multi-source behavioral data analysis using wearable sensors and machine learning. I’m eager to develop new techniques that can extract deeper insights from movement data.
+  
+  Outside the lab, I enjoy puzzles, data mining, reading, cooking, and the outdoors. I'm always seeking to expand my skills and knowledge. Please explore my site to learn more about my background, projects, and research interests. I'm open to collaborations, so feel free to connect!
+
+
 
 content:
   - title: Projects # Title for the section
