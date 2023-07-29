@@ -33,11 +33,11 @@ about_content: | # this will include new lines to allow paragraphs
   
   My upcoming research will generally focus on the analysis of multi-source advanced behavioral data where I will have specific responsibilities to:
   
-    - ###Systematically assess the benefits and drawbacks of existing multi-source movement behavior data methods where accelerometer data are combined with other data to improve classification accuracy and/or add contextual information.
-    - ##Further develop an existing smartphone application to be able to combine accelerometer data with contextual data collected using GPS and/or EMA functionality.
-    - #Assess if the behavioral classification accuracy can be improved using data from the additional sources and if yes, implement the improved classification algorithm.
-    - ####Conduct a feasibility test with the improved multi-source movement behavior data collection method.
-    - #####Report on findings by publishing scientific articles, resulting in a dissertation.
+    - <font size=”1”> Systematically assess the benefits and drawbacks of existing multi-source movement behavior data methods where accelerometer data are combined with other data to improve classification accuracy and/or add contextual information.</font>
+    - Further develop an existing smartphone application to be able to combine accelerometer data with contextual data collected using GPS and/or EMA functionality.
+    - Assess if the behavioral classification accuracy can be improved using data from the additional sources and if yes, implement the improved classification algorithm.
+    - Conduct a feasibility test with the improved multi-source movement behavior data collection method.
+    - Report on findings by publishing scientific articles, resulting in a dissertation.
     - Present findings at (inter)national meetings/conferences.
     - Contribute to the LABDA toolbox of advanced analysis methods for sensor-based behavioral data.
     - Contribute to educational activities within the consortium.
