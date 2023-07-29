@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   Currently, I am a prospective Ph.D. candidate, eagerly anticipating the start of an industrial Ph.D. fellowship in the [<mark>LABDA</mark>](https://labda-project.eu/index.html) (Learning Network for Advanced Behavioural Data Analysis) project starting October 2023. 
   
-  This prestigious fellowship is a part of the MSCA (Marie Skłodowska-Curie Actions) Doctoral Network, under Horizon Europe (2021-2027).
+  This prestigious fellowship is a part of the MSCA (Marie Skłodowska-Curie Actions) Doctoral Network, under [Horizon Europe (2021-2027)](https://marie-sklodowska-curie-actions.ec.europa.eu/document/horizon-europe-work-programme-2021-2022-marie-sklodowska-curie-actions).
 
   My upcoming research will generally focus on the analysis of multi-source advanced behavioral data where I will have specific responsibilities to:
   
@@ -98,8 +98,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Outside the lab, I enjoy puzzles 🧩, data mining 🖥️, finance 💹, reading 📚, cooking 👨‍🍳, and the outdoors 🌲🌅🏖️🚴✈️. I’m always seeking to expand my skills and knowledge 📈. Please explore 🔎 my site to learn more about my background, projects, and research interests 🔬. I’m open to collaborations 🤝, so feel free to connect! 😀
-
+      On a personal level, I am like a Swiss Army knife of reliability and collaboration. I am well-organized, detail-oriented, and always eager to tackle new challenges. I have a strong sense of initiative, which I believe is essential for problem-solving and skill development. Although I value teamwork, I am also comfortable working independently. My goal is not only to achieve personal success but also to help the team achieve success and make a significant impact. I thrive in challenging environments and enjoy taking on new and complex tasks.
+      
+      In my free time, I enjoy puzzles 🧩, data mining 🖥️, finance 💹, reading 📚, cooking 👨‍🍳, and the outdoors 🌲🌅🏖️🚴✈️. I’m always seeking to expand my skills and knowledge 📈. Please explore 🔎 my site to learn more about my background, projects, and research interests 🔬. I’m open to collaborations 🤝, so feel free to connect! 😀
 
 # Footer
 footer_show_references: true
