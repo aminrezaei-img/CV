@@ -52,13 +52,28 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Profile picture.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  I am a passionate master's graduate in Biomedical Imaging with strong technical and interpersonal skills. I have experience in health technology, machine learning, computer vision, image & signal processing, and am seeking to make a positive impact on people's lives.
+  
+  I recently completed my MSc in Biomedical Imaging at the University of Turku in Finland, where my thesis focused on camera-based heart rate extraction in noisy environments. I developed a modular pipeline to extract accurate heart rate signals from video recordings in challenging conditions.
+  
+  Previously, I obtained my BSc in Physics from Azad University in Iran. My undergraduate project evaluated the impact of pavement and vegetation on urban noise reduction.
+  
+  I have research experience interning at the Cell Migration Lab at Åbo Akademi University, where I worked on developing deep learning-backed segmentation networks. I have also interned at an optics lab where I gained hands-on experience with optical equipment and quality control.
+  
+  In addition to research, I have professional experience as a Quality Controller at an automotive manufacturer and as a Computer Operator at a medical imaging center. These roles allowed me to develop my technical abilities and attention to detail.
+  
+  Outside of work, I enjoy puzzles, data mining, outdoor activities, reading, cooking and coding. I consider myself hard-working, curious, self-initiated, trustworthy and results-driven. I am looking to utilize my diverse background to advance innovation in health technology and computer vision.
+  
+  Let me know if you would like me to modify or expand this "About Me" section further based on Amin's resume and experience!
+
+  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  #   - Lists
+  #   - Tables
+  #   - <a href="google.com">Links</a>
+  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
