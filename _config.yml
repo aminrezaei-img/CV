@@ -25,7 +25,7 @@ additional_links:
     url: https://www.aminrezaei.ai/
   - title: Email me
     icon: fas fa-envelope   # This is the Font Awesome icon class for the envelope icon (solid style)
-    url: mailto:Amin.Rezaei@hotmail.com
+    url: "mailto:Amin.Rezaei@hotmail.com"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
