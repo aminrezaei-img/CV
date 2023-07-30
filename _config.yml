@@ -25,9 +25,9 @@ linkedin_username: Amin-Rezaeii
 # Additional icon links
 additional_links:
 - title: My Website
-  icon: <i class="fa-solid fa-earth-americas"></i> (eg. fas fa-globe) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
-
+  icon: fas fa-globe   # This is the Font Awesome icon class for a globe icon (solid style)
+  url: https://www.aminrezaei.ai/
+  
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Profile picture.png
