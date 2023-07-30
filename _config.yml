@@ -17,15 +17,13 @@ twitter_username: AMINREZAEl
 github_username:  aminrezaei-img
 stackoverflow_username: "18346001"
 linkedin_username: Amin-Rezaeii
+email_address: amin.rezaei@hotmail.com
 
 # Additional icon links
 additional_links:
   - title: My Website
     icon: fas fa-globe   # This is the Font Awesome icon class for a globe icon (solid style)
     url: https://www.aminrezaei.ai/
-  - label: Email me
-    icon: fas fa-envelope   # This is the Font Awesome icon class for the envelope icon (solid style)
-    url: "mailto:amin.rezaei@hotmail.com"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
