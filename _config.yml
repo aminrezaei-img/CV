@@ -81,12 +81,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: 🎓 Education
-    layout: list
+    layout: text
     content:
-      - layout: top-right
+      - layout: top-left
         title: University of Turku, Finalnd 🇫🇮
         sub_title: MSc. Biomedical Imaging
-        caption: 09/2020 - 02/2023
+        caption: 09/2020 <br> 02/2023
         quote: >
 
         description: | # this will include new lines to allow paragraphs
