@@ -88,7 +88,12 @@ content:
         sub_title: MSc. Biomedical Imaging
         caption: 09/2020 - 02/2023
         quote: >
-          Short institution or course description (optional)
+          During my MSc in Biomedical Imaging, I had the opportunity to explore the captivating world of imaging technologies and their transformative applications in the field of biomedicine. Through a carefully crafted curriculum, I gained extensive knowledge and practical expertise in a diverse range of topics, spanning from cutting-edge imaging techniques to advanced biomedical instrumentation and bioimaging informatics. Immersed in this interdisciplinary journey, I honed my statistical skills and cultivated a keen understanding of how to derive valuable insights from complex biomedical data.
+
+          One of the highlights of the program was the freedom to tailor my studies through selectable major courses. I chose to specialize in areas that ignited my curiosity, such as programming for image analysis and innovative design thinking. These experiences provided me with a solid foundation in utilizing artificial intelligence and sophisticated visualization tools to process, interpret, and present intricate biomedical information effectively.
+
+          As I pursued my passion for merging technology and healthcare, I discovered the power of AI-driven imaging solutions in driving progress and revolutionizing patient care. The program not only expanded my technical prowess but also nurtured a profound appreciation for the profound impact of biomedical imaging on human well-being.
+
         description: | # this will include new lines to allow paragraphs
           During my MSc in Biomedical Imaging, I had the opportunity to explore the captivating world of imaging technologies and their transformative applications in the field of biomedicine. Through a carefully crafted curriculum, I gained extensive knowledge and practical expertise in a diverse range of topics, spanning from cutting-edge imaging techniques to advanced biomedical instrumentation and bioimaging informatics. Immersed in this interdisciplinary journey, I honed my statistical skills and cultivated a keen understanding of how to derive valuable insights from complex biomedical data.
 
