@@ -7,11 +7,7 @@ version: 2
 
 # Personal info
 name: Amin Rezaei
-title: Master's Graduate in Biomedical Imaging | Prospective Ph.D. Researcher in Multi-Source Behavioral Data Analysis
-email: Amin.Rezaei@hotmail.com
-# email_title: Email (Email title override)
-website: https://www.aminrezaei.ai/
-# website_title: Web (Website title override)
+title: MSc in Biomedical Imaging | Prospective Ph.D. Researcher in Multi-Source Behavioral Data Analysis
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -27,6 +23,9 @@ additional_links:
 - title: My Website
   icon: fas fa-globe   # This is the Font Awesome icon class for a globe icon (solid style)
   url: https://www.aminrezaei.ai/
+  - title: Email me
+  icon: fas fa-envelope   # This is the Font Awesome icon class for the envelope icon (solid style)
+  url: mailto:Amin.Rezaei@hotmail.com
   
 # About Section
 # about_title: About Me (Use this to override about section title)
