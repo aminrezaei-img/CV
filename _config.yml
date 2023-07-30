@@ -90,7 +90,7 @@ content:
         quote: >
           .  .  .
         description: | # this will include new lines to allow paragraphs
-          During my MSc in Biomedical Imaging, I had the opportunity to explore the captivating world of imaging technologies and their transformative applications in the field of biomedicine. Through a carefully crafted curriculum, I gained extensive knowledge and practical expertise in a diverse range of topics, spanning from cutting-edge imaging techniques to advanced biomedical instrumentation and bioimaging informatics. Immersed in this interdisciplinary journey, I honed my statistical skills and cultivated a keen understanding of how to derive valuable insights from complex biomedical data.
+          During my graduate studies, I had the opportunity to explore the captivating world of imaging technologies and their transformative applications in the field of biomedicine. Through a carefully crafted curriculum, I gained extensive knowledge and practical expertise in a diverse range of topics, spanning from cutting-edge imaging techniques to advanced biomedical instrumentation and bioimaging informatics. Immersed in this interdisciplinary journey, I honed my statistical skills and cultivated a keen understanding of how to derive valuable insights from complex biomedical data.
 
           One of the highlights of the program was the freedom to tailor my studies through selectable major courses. I chose to specialize in areas that ignited my curiosity, such as programming for image analysis and innovative design thinking. These experiences provided me with a solid foundation in utilizing artificial intelligence and sophisticated visualization tools to process, interpret, and present intricate biomedical information effectively.
 
@@ -103,7 +103,15 @@ content:
         quote: >
               .  .  .
         description: | # this will include new lines to allow paragraphs
-          During my undergraduate studies, I immersed myself in the captivating world of solid-state physics, exploring the fundamental laws that govern the behavior of matter at the atomic and subatomic levels. My courses encompassed a diverse range of topics, some of which are Electronics, Electromagnetics, Quantum Mechanics, Acoustics, Signals, Semiconductors, and The Principles of Solid-State Physics. 
+          My major coursework spanned a diverse array of intriguing subjects, enriching my understanding of the fundamental laws that govern the behavior of matter at the atomic and subatomic levels. 
+
+          The curriculum included essential courses such as Mathematical Methods for Physicists, Analytical Mechanics, Electronics, Electromagnetics, Quantum Mechanics, Acoustics, Signals, Semiconductors, and The Principles of Solid-State Physics, each contributing to the well-rounded knowledge base I possess.
+
+          Beyond the comprehensive academic experience, the programme also offered me a valuable opportunity to cultivate and refine my analytical thinking and problem-solving skills. This exposure instilled in me a sense of confidence to confront and tackle complex challenges. 
+          
+          Rather than being daunted by complexities, I have learned to embrace them as opportunities for growth and learning. This resilience, coupled with the ability to see the bigger picture, equips me to navigate through the most intricate of challenges with clarity and composure.
+          
+          
         
   - title: A Little More About Me
     layout: text
