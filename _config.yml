@@ -81,7 +81,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: 🎓 Education
-    layout: text
+    layout: list
     content:
       - layout: left
         title: University of Turku, Finalnd 🇫🇮
