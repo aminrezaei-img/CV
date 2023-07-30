@@ -23,10 +23,9 @@ additional_links:
   - title: My Website
     icon: fas fa-globe   # This is the Font Awesome icon class for a globe icon (solid style)
     url: https://www.aminrezaei.ai/
-  - title: Email me
+  - label: Email me
     icon: fas fa-envelope   # This is the Font Awesome icon class for the envelope icon (solid style)
-    url: <a href="mailto:Amin.Rezaei@hotmail.com"></a>
-
+    url: "mailto:amin.rezaei@hotmail.com"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
