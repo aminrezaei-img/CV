@@ -86,7 +86,7 @@ content:
       - layout: top-right
         title: University of Turku, Finland
         sub_title: MSc. Biomedical Imaging
-        caption: 09/2020 <br> 02/2023
+        caption: 2020 - 2023
         quote: >
           .  .  .
         description: | # this will include new lines to allow paragraphs
@@ -96,6 +96,15 @@ content:
 
           As I pursued my passion for merging technology and healthcare, I discovered the power of AI-driven imaging solutions in driving progress and revolutionizing patient care. The program not only expanded my technical prowess but also nurtured a profound appreciation for the profound impact of biomedical imaging on human well-being.
 
+      - layout: top-right
+        title: Azad University, Iran
+        sub_title: BSc. Solid-state Physics
+        caption: 2010 - 2015
+        quote: >
+              .  .  .
+        description: | # this will include new lines to allow paragraphs
+          During my undergraduate studies, I immersed myself in the captivating world of solid-state physics, exploring the fundamental laws that govern the behavior of matter at the atomic and subatomic levels. My courses encompassed a diverse range of topics, some of which are Electronics, Electromagnetics, Quantum Mechanics, Acoustics, Signals, Semiconductors, and The Principles of Solid-State Physics. 
+        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
