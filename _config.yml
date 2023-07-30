@@ -23,6 +23,8 @@ additional_links:
 - title: My Website
   icon: fas fa-globe   # This is the Font Awesome icon class for a globe icon (solid style)
   url: https://www.aminrezaei.ai/
+
+additional_links:
   - title: Email me
   icon: fas fa-envelope   # This is the Font Awesome icon class for the envelope icon (solid style)
   url: mailto:Amin.Rezaei@hotmail.com
