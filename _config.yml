@@ -83,7 +83,7 @@ content:
   - title: 🎓 Education
     layout: text
     content:
-      - layout: top-left
+      - layout: left
         title: University of Turku, Finalnd 🇫🇮
         sub_title: MSc. Biomedical Imaging
         caption: 09/2020 <br> 02/2023
