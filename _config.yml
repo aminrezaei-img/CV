@@ -20,16 +20,13 @@ linkedin_username: Amin-Rezaeii
 
 # Additional icon links
 additional_links:
-- title: My Website
-  icon: fas fa-globe   # This is the Font Awesome icon class for a globe icon (solid style)
-  url: https://www.aminrezaei.ai/
-
-# Additional icon links
-additional_links:
+  - title: My Website
+    icon: fas fa-globe   # This is the Font Awesome icon class for a globe icon (solid style)
+    url: https://www.aminrezaei.ai/
   - title: Email me
-  icon: fas fa-envelope   # This is the Font Awesome icon class for the envelope icon (solid style)
-  url: mailto:Amin.Rezaei@hotmail.com
-  
+    icon: fas fa-envelope   # This is the Font Awesome icon class for the envelope icon (solid style)
+    url: mailto:Amin.Rezaei@hotmail.com
+
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Profile picture.png
