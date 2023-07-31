@@ -18,12 +18,22 @@
           </a>
         {% endfor %}
       </p>
+
+      <div class="qualification-year">
+        {%- if item.qualification -%}<p><b>{{ item.qualification }}</b></p>{%- endif -%}
+        {%- if item.dates -%}<p>{{ item.dates }}</p>{%- endif -%}
+      </div>
     </div>
     <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
       {%- if item.quote -%}
         <p class="quote">{{ item.quote }}</p>
       {%- endif -%}
-      {{ item.description | strip | markdownify }}
+      {% if item.description %}<p>{{ item.description | strip | markdownify }}</p>{%- endif -%}
+      <div class="university-location">
+        {%- if item.university -%}<p>{{ item.university }}</p>{%- endif -%}
+        {%- if item.city_country -%}<p>{{ item.city_country }}</p>{%- endif -%}
+      </div>
     </div>
   </div>
 {% endfor %}
+
