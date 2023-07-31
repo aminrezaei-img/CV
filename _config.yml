@@ -84,10 +84,9 @@ content:
     layout: list
     content:
       - layout: top-right
-        qualification: Master of Science - Biomedical Imaging
-        university: University of Turku
-        city_country: Finland
-        dates: 2020 - 2023
+        title: Master of Science - Biomedical Imaging
+        sub_title: University of Turku, Finland
+        caption: 2020 - 2023
         quote: >
           .  .  .
         description: | # this will include new lines to allow paragraphs
