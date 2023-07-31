@@ -2,17 +2,21 @@
   <div class="row clearfix layout layout-{{item.layout | default: 'left'}} border-{{item.border | default: 'no'}}">
     <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
       <div style="display: flex; justify-content: space-between;">
-        <i class="fa-solid fa-building-columns"></i> <!-- Add the icon element here -->
-        <h4 id="{{ item.title | slugify }}">{{ item.title }}</h4>
+        {%- if item.title -%}<p id="{{ item.title | slugify }}" style="font-weight: bold;"><i class="fa-solid fa-building-columns"></i> {{ item.title }}</p>{%- endif -%} <!-- Icon added here -->
         {%- if item.caption -%}<p>{{ item.caption }}</p>{%- endif -%}
       </div>
-      {%- if item.sub_title -%}<p><i class="fa-solid fa-university"></i> {{ item.sub_title }}</p>{%- endif -%} <!-- Add the icon element here -->
-      {%- if item.city and item.country -%}<p><i class="fa-solid fa-map-marker-alt"></i> {{ item.city }} - {{ item.country }}</p>{%- endif -%} <!-- Add the icon element here -->
+
+      <div style="display: flex; justify-content: space-between;">
+        {%- if item.sub_title -%}<p><b>{{ item.sub_title }}</b></p>{%- endif -%}
+        <p>{{ item.city }} - {{ item.country }}</p>
+      </div>
+      
       {%- if item.link -%}
         {% include a.html href=item.link class="link" %}
           {%- if item.link_text -%}{{ item.link_text }}{%- else -%}{{ item.link }}{%- endif -%}
         </a>
       {%- endif -%}
+
       <p class="no-print aditional-links">
         {% for link in item.additional_links %}
           {% include a.html href=link.url class="" %}
@@ -22,10 +26,10 @@
       </p>
     </div>
     <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+      {{ item.description | strip | markdownify }}
       {%- if item.quote -%}
         <p class="quote">{{ item.quote }}</p>
       {%- endif -%}
-      {{ item.description | strip | markdownify }}
     </div>
   </div>
 {% endfor %}
