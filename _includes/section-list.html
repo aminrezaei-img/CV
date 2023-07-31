@@ -27,10 +27,12 @@
         <p><b>{{ item.title }}</b></p>
         <p>{{ item.caption }}</p>
       </div>
-      <div style="display: flex; justify-content: space-between;">
-        <p>{{ item.sub_title }}</p>
-        <p>{{ item.city }} - {{ item.country }}</p>
-      </div>
+      {% if item.sub_title and item.caption %}
+        <div style="display: flex; justify-content: space-between;">
+          <p>{{ item.sub_title }}</p>
+          <p>{{ item.city }} - {{ item.country }}</p>
+        </div>
+      {% endif %}
       {{ item.description | strip | markdownify }}
     </div>
   </div>
