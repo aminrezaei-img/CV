@@ -83,8 +83,7 @@ content:
   - title: 🎓 Education
     layout: list
     content:
-    
-      - layout: top-right
+      - layout: top-left
         title: Master of Science - Biomedical Imaging
         sub_title: University of Turku
         city: Turku
