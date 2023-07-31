@@ -27,7 +27,10 @@
         <p><b>{{ item.title }}</b></p>
         <p>{{ item.caption }}</p>
       </div>
-      <p>{{ item.sub_title }}</p>
+      <div style="display: flex; justify-content: space-between;">
+        <p>{{ item.sub_title }}</p>
+        <p>{{ item.city }} {{ item.country }}</p>
+      </div>
       {{ item.description | strip | markdownify }}
     </div>
   </div>
