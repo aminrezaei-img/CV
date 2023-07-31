@@ -2,7 +2,7 @@
   <div class="row clearfix layout layout-{{item.layout | default: 'left'}} border-{{item.border | default: 'no'}}">
     <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
       <div style="display: flex; justify-content: space-between;">
-        <h4 id="{{ item.title | slugify }}">{{ item.title }}</h4>
+        <h3 id="{{ item.title | slugify }}">{{ item.title }}</h3>
         {%- if item.caption -%}<p>{{ item.caption }}</p>{%- endif -%}
       </div>
 
