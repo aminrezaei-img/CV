@@ -147,6 +147,26 @@
   }
 }
 
+.layout-top-left {
+  flex-direction: column;
+
+  .details, .content {
+    width: 100%;
+  }
+
+  .details {
+    text-align: left;
+  }
+
+  @media screen and (max-width: 767px) {
+    flex-direction: column;
+  }
+
+  .details {
+    margin-bottom: 2rem;
+  }
+}
+
 .footer-container {
   margin-top:100px;
 }
