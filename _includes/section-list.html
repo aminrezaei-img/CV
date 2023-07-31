@@ -5,6 +5,15 @@
       {%- if item.sub_title -%}<p><b>{{ item.sub_title }}</b></p>{%- endif -%}
       {%- if item.caption -%}<p>{{ item.caption }}</p>{%- endif -%}
 
+    <div style="display: flex; justify-content: space-between;">
+        <p><b>{{ item.title }}</b></p>
+        <p>{{ item.caption }}</p>
+      </div>
+      <div style="display: flex; justify-content: space-between;">
+        <p>{{ item.sub_title }}</p>
+        <p>{{ item.city }} - {{ item.country }}</p>
+      </div>
+      
       {%- if item.link -%}
         {% include a.html href=item.link class="link" %}
           {%- if item.link_text -%}{{ item.link_text }}{%- else -%}{{ item.link }}{%- endif -%}
@@ -23,16 +32,6 @@
       {%- if item.quote -%}
         <p class="quote">{{ item.quote }}</p>
       {%- endif -%}
-      <div style="display: flex; justify-content: space-between;">
-        <p><b>{{ item.title }}</b></p>
-        <p>{{ item.caption }}</p>
-      </div>
-      {% if item.sub_title and item.caption %}
-        <div style="display: flex; justify-content: space-between;">
-          <p>{{ item.sub_title }}</p>
-          <p>{{ item.city }} - {{ item.country }}</p>
-        </div>
-      {% endif %}
       {{ item.description | strip | markdownify }}
     </div>
   </div>
