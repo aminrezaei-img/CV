@@ -2,24 +2,20 @@
   <div class="row clearfix layout layout-{{item.layout | default: 'left'}} border-{{item.border | default: 'no'}}">
     <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
       <h4 id="{{ item.title | slugify }}">{{ item.title }}</h4>
-      {%- if item.sub_title and item.caption -%}
-        <div style="display: flex; justify-content: space-between;">
-          <p><b>{{ item.title }}</b></p>
-          <p>{{ item.caption }}</p>
-        </div>
-        <div style="display: flex; justify-content: space-between;">
-          <p>{{ item.sub_title }}</p>
-          <p>{{ item.city }} - {{ item.country }}</p>
-        </div>
-      {%- elseif item.caption -%}
-        <p><b>{{ item.title }}</b></p>
-        <p>{{ item.caption }}</p>
-      {%- elseif item.sub_title -%}
-        <p><b>{{ item.title }}</b></p>
-        <p>{{ item.sub_title }}</p>
-        <p>{{ item.city }} - {{ item.country }}</p>
+      {%- if item.caption and item.sub_title -%}
+        <p><b>{{ item.caption }}</b></p>
+        <p>{{ item.title }}</p>
+        <p>{{ item.sub_title }} - {{ item.city }}, {{ item.country }}</p>
       {%- else -%}
-        <p><b>{{ item.title }}</b></p>
+        {%- if item.caption -%}
+          <p><b>{{ item.caption }}</b></p>
+        {%- endif -%}
+        {%- if item.title -%}
+          <p>{{ item.title }}</p>
+        {%- endif -%}
+        {%- if item.sub_title -%}
+          <p>{{ item.sub_title }} - {{ item.city }}, {{ item.country }}</p>
+        {%- endif -%}
       {%- endif -%}
 
       {%- if item.link -%}
