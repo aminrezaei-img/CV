@@ -2,7 +2,6 @@
   <div class="row clearfix layout layout-{{item.layout | default: 'left'}} border-{{item.border | default: 'no'}}">
     <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
       <div style="display: flex; justify-content: space-between;">
-        <p>Styled Font Awesome icons (size, color, and shadow):</p>
         <i class="fas fa-clock" style="font-size:24px;"></i>
         {%- if item.title -%}<p id="{{ item.title | slugify }}" style="font-weight: bold;">{{ item.title }}</p>{%- endif -%}
         {%- if item.caption -%}<p>{{ item.caption }}</p>{%- endif -%}
