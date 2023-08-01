@@ -2,7 +2,8 @@
   <div class="row clearfix layout layout-{{item.layout | default: 'left'}} border-{{item.border | default: 'no'}}">
     <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
       <div style="display: flex; justify-content: space-between;">
-        {%- if item.title -%}<p id="{{ item.title | slugify }}" style="font-weight: bold;"><i class="fa-solid fa-building-columns"></i> {{ item.title }}</p>{%- endif -%}
+        {%- if item.title -%}<p id="{{ item.title | slugify }}" class="title-with-icon"><i class="fa-solid fa-building-columns"></i> {{ item.title }}</p>{%- endif -%} <!-- Icon added here -->
+        {%- if item.title -%}<p id="{{ item.title | slugify }}" style="font-weight: bold;">{{ item.title }}</p>{%- endif -%}
         {%- if item.caption -%}<p>{{ item.caption }}</p>{%- endif -%}
       </div>
 
