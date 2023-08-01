@@ -72,13 +72,13 @@ content:
   - title: 🔍 Research
     layout: list
     content:
-      - layout: right
+      - layout:  top-left
         title: Cell Migration Lab
         sub_title: Summer Intern
         caption: 06/2021 - 09/2021
         link: https://cellmig.org/
         quote: >
-          The cell migration lab is located in Turku, Finland. It is part of the Solution for Health research profile and INFLAMES Flagship.
+          Cell Migration Lab is located in Turku, Finland. It is part of the Solution for Health research profile and INFLAMES Flagship.
         description: | # this will include new lines to allow paragraphs
           As an intern I worked on the development of a deep learning-backed segmentation network for the [<mark>ZeroCostDL4Mic</mark>](https://github.com/HenriquesLab/ZeroCostDL4Mic) toolbox. A cloud-based platform that democratizes deep learning for the analysis of microscopy images using pre-existing free resources. My primary focus was to extend the deep learning-backed segmentation networks of the toolbox by porting the embedding-based instance segmentation in microscopy (EmbedSeg) network to the [Google Colab environment](https://colab.research.google.com/github/HenriquesLab/ZeroCostDL4Mic/blob/master/Colab_notebooks/Beta%20notebooks/EmbedSeg_2D_ZeroCostDL4Mic.ipynb) and adapting it for the ZeroCostDL4Mic framework.
           
