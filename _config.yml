@@ -68,18 +68,20 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
+          
+  - title: 🔍 Research
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Cell Migration Lab
+        sub_title: Summer Intern
+        caption: 06/2021 - 09/2021
+        link: https://cellmig.org/
         quote: >
-          Short description of the company (optional)
+          The cell migration lab is located in Turku, Finland. It is part of the Solution for Health research profile and INFLAMES Flagship.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          As an intern I worked on the development of a deep learning-backed segmentation network for the [<mark>ZeroCostDL4Mic</mark>](https://github.com/HenriquesLab/ZeroCostDL4Mic) toolbox. A cloud-based platform that democratizes deep learning for the analysis of microscopy images using pre-existing free resources. My primary focus was to extend the deep learning-backed segmentation networks of the toolbox by porting the embedding-based instance segmentation in microscopy (EmbedSeg) network to the [Google Colab environment](https://colab.research.google.com/github/HenriquesLab/ZeroCostDL4Mic/blob/master/Colab_notebooks/Beta%20notebooks/EmbedSeg_2D_ZeroCostDL4Mic.ipynb) and adapting it for the ZeroCostDL4Mic framework.
+          
   - title: 🎓 Education
     layout: list
     content:
