@@ -1,11 +1,17 @@
 {% for item in include.content %}
   <div class="row clearfix layout layout-{{item.layout | default: 'left'}} border-{{item.border | default: 'no'}}">
     <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 details">
-      <div style="display: flex; justify-content: space-between;">
-        <i class="fas fa-clock" style="font-size:24px;"></i>
-        {%- if item.title -%}<p id="{{ item.title | slugify }}" style="font-weight: bold;">{{ item.title }}</p>{%- endif -%}
-        {%- if item.caption -%}<p>{{ item.caption }}</p>{%- endif -%}
-      </div>
+    <div style="display: flex; justify-content: space-between;">
+      {%- if item.title -%}
+        <p id="{{ item.title | slugify }}" style="font-weight: bold;">
+          {{ item.title }}
+          <i class="fas fa-clock" style="font-size: 24px;"></i>
+        </p>
+      {%- endif -%}
+      {%- if item.caption -%}
+        <p>{{ item.caption }}</p>
+      {%- endif -%}
+    </div>
 
       <div style="display: flex; justify-content: space-between;">
         {%- if item.sub_title -%}<p><b>{{ item.sub_title }}</b></p>{%- endif -%}
