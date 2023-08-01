@@ -1,11 +1,5 @@
 <style>
-  .footer-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-size: 18px; /* Adjust the font size to your preference */
-  }
-  .footer-container a {
+  .footer-container p a {
     text-decoration: underline;
     color: #007bff;
     font-weight: bold;
@@ -14,8 +8,9 @@
 </style>
 
 <div class="container footer-container">
-  <span>&copy; 2023 {{ site.name }}. Powered by Jekyll & Markdown, a fork of Modern Resume Theme with minor changes -</span>
+  <p>&copy; 2023 {{ site.name }}. Powered by Jekyll & Markdown, a fork of Modern Resume Theme with minor changes.</p>
   {%- if site.footer_show_references -%}
-    <span><a href="mailto:{{ site.email }}" target="_blank">References only upon request</a></span>
+    <p><a href="mailto:{{ site.email }}" target="_blank">References only upon request</a></p>
   {%- endif -%}
+  <p>&copy; 2023 {{ site.name }}. Powered by Jekyll & Markdown, a fork of Modern Resume Theme with minor changes.</p>
 </div>
