@@ -1,6 +1,15 @@
+<style>
+  .footer-container p a {
+    text-decoration: underline;
+    color: #007bff;
+    font-weight: bold;
+    cursor: pointer;
+  }
+</style>
+
 <div class="container footer-container">
-  {%- if site.footer_show_references -%}
-    <p>References only on request - <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a></p>
-  {%- endif -%}
   <p>&copy; 2023 {{ site.name }}. Powered by Jekyll & Markdown, a fork of Modern Resume Theme with minor changes.</p>
+  {%- if site.footer_show_references -%}
+    <p><a href="mailto:{{ site.email }}" target="_blank">References on request</a></p>
+  {%- endif -%}
 </div>
