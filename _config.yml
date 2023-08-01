@@ -82,10 +82,10 @@ content:
           As an intern in the [Cell Migration Lab](https://cellmig.org/), I worked on the development of a deep learning-backed segmentation network for the [<mark>ZeroCostDL4Mic</mark>](https://github.com/HenriquesLab/ZeroCostDL4Mic) toolbox. A cloud-based platform that democratizes deep learning for the analysis of microscopy images using pre-existing free resources. My primary focus was to extend the deep learning-backed segmentation networks of the toolbox by porting the embedding-based instance segmentation in microscopy (EmbedSeg) network to the [Google Colab environment](https://colab.research.google.com/github/HenriquesLab/ZeroCostDL4Mic/blob/master/Colab_notebooks/Beta%20notebooks/EmbedSeg_2D_ZeroCostDL4Mic.ipynb) and adapting it for the ZeroCostDL4Mic framework.
 
           During my internship, I successfully achieved the following objectives:
-            - Developed an EmbedSeg Jupyter notebook for the ZeroCostDL4Mic segmentation networks, making the network accessible to researchers with minimal technical expertise.
-            - Created a user-friendly interface for the notebook in Google Colab.
-            - Trained a model by using the developed EmbedSeg notebook on a publicly available Zenodo dataset.
-            - Documented the project thoroughly to ensure ease of use and reproducibility, providing clear guidelines on how to use the notebook.
+            - Developed a Jupyter notebook for the ZeroCostDL4Mic segmentation networks, specifically focusing on the EmbedSeg model. This notebook facilitates easy access and usability for researchers, even with limited technical expertise.
+            - Designed and implemented a user-friendly interface within Google Colab, streamlining the workflow and enhancing user experience while interacting with the EmbedSeg notebook.
+            - Conducted training sessions using the developed EmbedSeg notebook on a publicly available Zenodo dataset, resulting in the creation of a well-trained model for segmentation tasks.
+            - Ensured project documentation was comprehensive and well-structured, providing clear guidelines and instructions for effectively utilizing the EmbedSeg notebook. The emphasis was on promoting ease of use and reproducibility for other researchers and practitioners in the field.
 
         quote: >
           . . . 
