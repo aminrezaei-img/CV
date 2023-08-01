@@ -5,19 +5,10 @@
     font-weight: bold;
     cursor: pointer;
   }
-
-  /* Style for the specific link */
-  .footer-container p:first-child a {
-    text-decoration: underline; /* Make it underlined */
-    color: inherit; /* Use the parent element's color (black in this case) */
-    font-weight: normal; /* Set font weight to normal */
-    cursor: pointer;
-  }
 </style>
-
 <div class="container footer-container">
   {%- if site.footer_show_references -%}
-    <p><a href="mailto:{{ site.email }}" target="_blank">References only upon request</a></p>
+    <p><a href="mailto:{{ site.email }}" target="_blank">- References only upon request -</a></p>
   {%- endif -%}
-  <p>&copy; 2023 {{ site.name }}. Powered by Jekyll & Markdown, a fork of <a href="https://link-to-modern-resume-theme.com">Modern Resume Theme</a> with minor changes.</p>
+  <p>&copy; 2023 {{ site.name }}. Powered by Jekyll & Markdown, a fork of [<mark>Modern Resume Theme</mark>](https://github.com/sproogen/modern-resume-theme) with minor changes.</p>
 </div>
