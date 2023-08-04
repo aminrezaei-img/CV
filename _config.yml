@@ -89,7 +89,6 @@ content:
 
         quote: >
           . . . 
-
       - layout:  top-left 
         title: Karaj Azad University
         sub_title: Summer Intern
@@ -105,7 +104,6 @@ content:
     
         quote: >
           . . . 
-          
   - title: 🎓 Education
     layout: list
     content:
