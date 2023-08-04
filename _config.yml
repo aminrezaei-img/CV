@@ -89,6 +89,22 @@ content:
 
         quote: >
           . . . 
+
+      - layout:  top-left 
+        title: Karaj Azad University
+        sub_title: Summer Intern
+        city: Karaj
+        country: Iran
+        caption: 03/2012 - 08/2012
+        description: | # this will include new lines to allow paragraphs
+          As an intern, I was responsible for lens preparation and quality control. My duties included:
+          
+          - Mounting lens blanks and optical lenses securely in cutting, polishing, and grinding tools.
+          - Inspecting lens blanks to detect flaws, verify surface smoothness, and ensure proper coating thickness.
+          - Performing final inspections of mounted or unmounted lenses using precision instruments to verify alignment, specifications conformance, weight, and measurements.
+    
+        quote: >
+          . . . 
           
   - title: 🎓 Education
     layout: list
@@ -110,8 +126,8 @@ content:
           
       - layout: top-left
         title: Bachelor of Science - Solid-state Physics
-        sub_title: Azad University
-        city: Tehran
+        sub_title: Karaj Azad University
+        city: Karaj
         country: Iran
         caption: 09/2010 - 03/2015
         description: | # this will include new lines to allow paragraphs
