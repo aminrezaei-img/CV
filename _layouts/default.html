@@ -6,8 +6,11 @@
 <body class="{% if site.darkmode == true and site.darkmode != 'never' %}dark{% endif %}">
 
   {%- include header.html -%}
-  {% include contact.html %}
-
+  <nav>
+    <ul>
+      <li><a href="/contact.html">Contact</a></li> <!-- Add the Contact link here -->
+    </ul>
+  </nav>
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
 
